@@ -31,5 +31,5 @@ public class T1_Yahoo_Screenshot extends TestBase{
         }//end of test 2
 
     //adding a comment
-    
+
     }//end of class
